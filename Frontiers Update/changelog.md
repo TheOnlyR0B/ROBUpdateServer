@@ -1,4 +1,4 @@
 ## Frontiers Sonic
 
 ## Frontiers Sonic V2.0
--Fixed PBR Sonic
+-Better Materials for the Metal ring on sonics shoe by ULTIMATESMASH
