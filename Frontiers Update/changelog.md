@@ -1,6 +1,4 @@
 ## Frontiers Sonic
 
 ## Frontiers Sonic V2.0
--added Super Sonic
--Better Materials
--Better Jumpballl textures
+-Put the Original Jumpball textures back in because it is a bit too dark
