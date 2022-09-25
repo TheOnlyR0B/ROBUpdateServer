@@ -8,4 +8,11 @@ add disk/bb3/Sonic.ar.06
 add disk/bb3/Sonic.ar.07
 add disk/bb3/Sonic.ar.08
 add disk/bb3/Sonic.arl
+add disk/bb3/PBRSonic.ar.00
+add disk/bb3/PBRSonic.ar.01
+add disk/bb3/PBRSonic.ar.02
+add disk/bb3/PBRSonic.ar.03
+add disk/bb3/PBRSonic.ar.04
+add disk/bb3/PBRSonic.ar.05
+add disk/bb3/PBRSonic.arl
 add mod.ini
