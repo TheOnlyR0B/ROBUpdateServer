@@ -1,0 +1,52 @@
+{
+   "Groups":[
+      {
+         "Name":"Main",
+         "DisplayName":"Configuration",
+         "Elements":
+         [
+			{
+               "Name":"IncludeDir0",
+               "DisplayName":"Costume",
+               "Description":[
+                  "Changes Sonic Costume",
+               ],
+               "Type":"CostumeEnum",
+               "MinValue":null,
+               "MaxValue":null,
+               "DefaultValue":"disk"
+            },
+			
+         ]
+      }
+   ],
+   "Enums":{
+      "CostumeEnum":[
+         {
+            "DisplayName":"None",
+            "Value":"disk",
+            "Description":[
+               "Uses the Default Costume",
+            ]
+         },
+		 {
+            "DisplayName":"Korone",
+            "Value":"disk_Korone",
+            "Description":[
+              "Uses the Korone Costume
+                ",
+             ]
+         },
+		 {
+            "DisplayName":"Soap Shoes",
+            "Value":"disk_SoapShoe",
+            "Description":[
+               "Uses the Soap Shoes Costume",
+             
+            ]
+         },
+		 
+      ],
+   },
+   "IniFile":"mod.ini"
+}
