@@ -8,4 +8,6 @@ added Soap Shoes costume (Vanilla and PBR)
 | changed the light speed dash animation
 | Small changes on the running Animation
 | randomized dash ring animation
+| Sonic stays in Air boost Anim after an Air boost
+| Jump ball stays while homing attacking
 
