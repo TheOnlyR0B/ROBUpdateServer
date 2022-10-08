@@ -13,6 +13,11 @@ add disk/bb3/PBRSonic.ar.01
 add disk/bb3/PBRSonic.ar.02
 add disk/bb3/PBRSonic.ar.03
 add disk/bb3/PBRSonic.ar.04
-add disk/bb3/PBRSonic.ar.05
+delete disk/bb3/PBRSonic.ar.05
 add disk/bb3/PBRSonic.arl
+add disk/bb3/SonicCrawl.ar.00
+add disk/bb3/SonicCrawl.arl
+add config.json
+delete SonicMouth.dll
+add Sonic.dll
 add mod.ini
